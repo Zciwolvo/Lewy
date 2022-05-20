@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/urodzinki/static/css/main.a3674f4b.css",
+    "main.js": "/urodzinki/static/js/main.c6c51523.js",
+    "static/js/787.3c0b02ff.chunk.js": "/urodzinki/static/js/787.3c0b02ff.chunk.js",
+    "static/media/peepoParty.png": "/urodzinki/static/media/peepoParty.e87990d2254e42467fe6.png",
+    "index.html": "/urodzinki/index.html",
+    "main.a3674f4b.css.map": "/urodzinki/static/css/main.a3674f4b.css.map",
+    "main.c6c51523.js.map": "/urodzinki/static/js/main.c6c51523.js.map",
+    "787.3c0b02ff.chunk.js.map": "/urodzinki/static/js/787.3c0b02ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3674f4b.css",
+    "static/js/main.c6c51523.js"
+  ]
+}
